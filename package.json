@@ -1,0 +1,24 @@
+{
+  "name": "practice-readline-sync",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamtenille314/practice-readline-sync.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/iamtenille314/practice-readline-sync/issues"
+  },
+  "homepage": "https://github.com/iamtenille314/practice-readline-sync#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
